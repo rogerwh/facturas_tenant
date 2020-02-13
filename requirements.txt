@@ -1,0 +1,10 @@
+Django==2.2.8
+django-debug-toolbar==2.1
+django-tenant-schemas==1.9.0
+mysqlclient==1.4.6
+ordered-set==3.1.1
+psycopg2==2.8.4
+psycopg2-binary==2.8.4
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.0
